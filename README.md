@@ -1,3 +1,10 @@
+# FritzBox 3490 Support
+
+This is the main branch patched with the changes from [kestrel1974](https://github.com/kestrel1974) and [andyboeh](https://github.com/andyboeh) for the 3490.
+All credits go to them.
+
+---
+
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
